@@ -1,4 +1,4 @@
-Bullet the Blue Sky
+Yeet or be yote ;) 
 =========================
 Welcome to a 3D emulation of a jet fighter plane game!
 (Not the classic U2 song from The Joshua Tree :stuck_out_tongue:)
@@ -26,7 +26,7 @@ Instructions:
 make all
 ./graphics_asgn1 
 
-Hope you enjoy playing this, as much as I did making it :wink:
+Hope you enjoy playing this, as much as I did making it!
 
 
 
